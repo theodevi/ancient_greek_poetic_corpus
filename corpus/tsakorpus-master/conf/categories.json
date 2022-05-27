@@ -1,0 +1,14 @@
+{
+  "greek": {
+	"N" :"pos", 
+	"A" :"pos", 
+	"V" :"pos", 
+	"C" :"pos", 
+	"S" :"pos", 
+	"D" :"pos", 
+	"R" :"pos", 
+	"P" :"pos",
+	"U" :"pos", 
+	"G" :"pos"
+      }
+}
