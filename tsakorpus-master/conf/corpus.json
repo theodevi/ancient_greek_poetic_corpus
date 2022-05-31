@@ -1,0 +1,102 @@
+{
+  "accidental_word_fields": [],
+  "all_language_search_enabled": false,
+  "ambiguous_analyses": true,
+  "author_metafield": "",
+  "auto_switch_tiers": {},
+  "citation": "Ancient Greek Poetic Corpus",
+  "context_header_rtl": false,
+  "corpus_name": "ancient_greek_poetic_corpus",
+  "debug": false,
+  "default_locale": "en",
+  "default_values": {},
+  "default_view": "standard",
+  "detect_lemma_queries": false,
+  "display_freq_rank": true,
+  "fulltext_page_size": 100,
+  "fulltext_search_enabled": true,
+  "fulltext_view_enabled": true,
+  "generate_dictionary": false,
+  "gloss_search_enabled": true,
+  "images": false,
+  "input_format": "json",
+  "input_methods": [],
+  "integer_meta_fields": [],
+  "interface_languages": [
+    "en"
+  ],
+  "keep_lemma_order": false,
+  "keyboards": {},
+  "lang_props": {},
+  "languages": [
+    "greek"
+  ],
+  "line_plot_meta": [],
+  "max_context_expand": 10,
+  "max_docs_retrieve": 9999,
+  "max_hits_retrieve": 10000,
+  "max_words_in_sentence": 40,
+  "media": false,
+  "media_length": 60,
+  "media_youtube": false,
+  "multiple_choice_fields": {},
+  "negative_search_enabled": true,
+  "query_log": false,
+  "query_timeout": 60,
+  "rtl_languages": [],
+  "search_meta": {
+    "columns": [
+      [
+        {
+          "name": "author",
+          "text": "",
+          "type": "input_text",
+          "value": "Author"
+        },
+        {
+          "name": "title",
+          "text": "",
+          "type": "input_text",
+          "value": "Title"
+        },
+        {
+          "name": "meter",
+          "text": "",
+          "type": "input_text",
+          "value": "Metre"
+        },
+        {
+          "name": "prosody",
+          "text": "",
+          "type": "input_text",
+          "value": "Prosody"
+        }
+      ]
+    ],
+    "stat_options": [
+      "author",
+      "title",
+      "meter",
+      "prosody"
+    ]
+  },
+  "search_remove_whitespaces": false,
+  "sentence_meta": [
+    "title",
+    "author",
+    "meter",
+    "prosody"
+  ],
+  "start_page_url": "",
+  "transliterations": [],
+  "video": false,
+  "viewable_meta": [
+    "title",
+    "author"
+  ],
+  "wf_lowercase": true,
+  "word_fields": [],
+  "word_search_display_gr": true,
+  "word_table_fields": [],
+  "year_sort_enabled": false
+}
